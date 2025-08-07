@@ -1,6 +1,6 @@
 # Capstone-Project-IV-Apple-Stores-Analysis-SQL
 
-# Apple Retail Sales SQL Project
+
 
 ## Project Overview
 
