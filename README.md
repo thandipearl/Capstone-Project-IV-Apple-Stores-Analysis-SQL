@@ -121,6 +121,17 @@ By completing this project, I:
 - Gained experience working with **large, relational datasets**  
 - Built a professional-grade project to add to my **data analytics portfolio**
 
+---
+## 📦 Deliverables
+
+This repository includes the following key deliverables:
+
+- **`Business Analysis.sql`**: The complete set of SQL queries I wrote to answer the project's business questions.
+- **`Dataset.zip`**: The dataset containing over 1 million rows of Apple retail sales data.
+- **`Global Apple Store Insights.pdf`**: A presentation/report summarizing the key findings and actionable insights from the analysis.
+- **`apple-store-palo-alto.jpg`**: A visual asset used to enhance the presentation of the project.
+
+
 
 
 
