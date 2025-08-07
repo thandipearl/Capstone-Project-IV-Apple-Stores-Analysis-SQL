@@ -6,7 +6,7 @@
 
 Hi! I created this project to demonstrate my advanced SQL skills by analyzing over **1 million rows** of Apple retail sales data. I wanted to challenge myself with a real-world, large-scale dataset that mirrors the kind of work analysts do in global companies.
 
-Throughout the project, I tackled a wide range of **business-critical questions**—from day-to-day operational reporting to strategic and predictive analysis using a relational database of product, store, sales, and warranty information.
+Throughout the project, I tackled a wide range of **business-critical questions** from day-to-day operational reporting to strategic and predictive analysis using a relational database of product, store, sales, and warranty information.
 
 This project gave me hands-on experience working with complex joins, time-based queries, segmentation, and optimization. It’s one of my proudest portfolio pieces and reflects the kind of value I aim to bring to a data team.
 
