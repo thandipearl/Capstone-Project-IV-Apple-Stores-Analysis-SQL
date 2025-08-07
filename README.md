@@ -11,7 +11,7 @@ Throughout the project, I tackled a wide range of **business-critical questions*
 This project gave me hands-on experience working with complex joins, time-based queries, segmentation, and optimization. It’s one of my proudest portfolio pieces and reflects the kind of value I aim to bring to a data team.
 
 ---
-![image alt]()
+![image alt](https://github.com/thandipearl/Capstone-Project-IV-One-Million-rows-Apple-Stores-Analysis-SQL/blob/4f2f1d236653a59eed89b12a8b115977c7efc570/apple-store-palo-alto.jpg)
 ---
 
 ## Key Business Questions I Answered
